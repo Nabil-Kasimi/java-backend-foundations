@@ -1,4 +1,4 @@
-package httprequest;
+package httprequest.HttpRequest;
 // import httprequest.HttpRequest;
 
 public class TestHttpRequest {
